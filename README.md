@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:09-04-2024
+## Date:10-04-2024
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -65,7 +65,7 @@ Publish the website in the LocalHost.
             display: inline;
             position: relative;
             color: rgb(42, 6, 245);
-            top: 190px;
+            top: 200px;
 
             font-family: Georgia, 'Times New Roman', Times, serif;
             font-size: medium;
@@ -75,7 +75,7 @@ Publish the website in the LocalHost.
             font-size: larger;
             text-align: center;
             position: relative;
-            top: 30px;
+            top: 50px;
         }
 
         .id{
@@ -86,28 +86,28 @@ Publish the website in the LocalHost.
         }
 
         .pub{
-            font-size: medium;
+            font-size: large;
             position: relative;
-            top: 155px;
-            left: 330px;
+            top: 100px;
+            left: 300px;
         }
         .ed{
             color: blue;
             font-size: medium;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
             position: relative;
-            top: 85px;
+            top: 120px;
 
         }
-        .subtile{
+        .subtitle{
             font-family: Tahoma;
             font-size: large;
             position: relative;
-            top: 40px;
+            top: 50px;
         }
         .mypic{
             position: relative;
-            top: 135px;
+            top: 290px;
             left: 260px;
             width: 100px;
             height: 100px;
@@ -148,9 +148,11 @@ Publish the website in the LocalHost.
         </div>
     </body>
 </html>
+
 ```
 ## OUTPUT:
-![Screenshot 2024-04-09 140048](https://github.com/ajinajoshpin/cover/assets/148514578/22de4ca8-473c-42d6-91ba-7676f633cd9c)
+![Screenshot 2024-04-11 065846](https://github.com/ajinajoshpin/cover/assets/148514578/dd90a149-bd3b-487f-ac4d-98646bdece39)
+
 
 
 ## RESULT:
